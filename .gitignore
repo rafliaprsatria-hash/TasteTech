@@ -1,0 +1,19 @@
+# Binary output
+app
+*.exe
+
+# Go build cache
+/vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
